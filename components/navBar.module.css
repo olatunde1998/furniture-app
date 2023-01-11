@@ -1,0 +1,22 @@
+.navbarContainer{
+    /* border: 2px solid blue; */
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: space-between;
+}
+.brandWrapper{
+    /* border: 2px solid blue; */
+    width: 70px;
+}
+.navBarList{
+    /* border: 2px solid red; */
+    padding-top: 10px;
+    
+}
+.List{
+    vertical-align: middle;
+    cursor: pointer;
+}
